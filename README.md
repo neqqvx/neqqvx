@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 🛠️ Инструменты, которые я использую:
 #### Языки:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Formatter: black](https://img.shields.io/badge/formatter-black-000000?style=for-the-badge "formatter black")](https://github.com/psf/black)
+[![Formatter: black](https://cdn-icons-png.flaticon.com/128/1/1840.png)](https://github.com/psf/black)
 #### Среда разработки:
 [![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "VSCode IDE")](https://code.visualstudio.com/)
 <!--[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/) (Я пока только учусь им пользоваться-->
