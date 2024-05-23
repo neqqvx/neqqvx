@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 Немного обо мне:
 Студент направления Компьютерная безопасность, Python программист и огромный поклонник музыки из России, Калининград
 - 🔭 Работаю над созданием редактора музыкальных тэгов и обертки над Monstercat API.
-- 📥 Со мной можно связаться через [![Gmail Badge](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:popovnikita01@gmail.com) или написать в [![Telegram Badge](https://img.shields.io/badge/L4zzur-lightblue?logo=telegram)](https://t.me/L4zzur)
+- 📥 Со мной можно связаться через [![Telegram Badge](https://img.shields.io/badge/L4zzur-lightblue?logo=telegram)]([https://t.me/L4zzur](https://t.me/neverlose_exe))
 
 ---
 ### 🛠️ Инструменты, которые я использую:
