@@ -48,27 +48,6 @@ Here are some ideas to get you started:
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ---
-### ✉️ Социальные сети:
-<div>
-    <a href="https://gitlab.com/L4zzur">
-        <img src="gitlab.png" title="Gitlab" alt="Gitlab Badge" width="40" height="40">
-    </a>
-    <a href="https://t.me/L4zzur">
-        <img src="tg.png" title="Telegram" alt="Telegram Badge" width="40" height="40">
-    </a>
-    <a href="https://vk.com/L4zzur">
-        <img src="vk.png" title="VK" alt="VK Badge" width="40" height="40">
-    </a>
-    <a href="https://instagr.am/L4zzur">
-        <img src="inst.png" title="Instagram" alt="Instagram Badge" width="40" height="40">
-    </a>
-    <a href="https://spoti.fi/3ysqUa1">
-        <img src="spotify.png" title="Spotify" alt="Spotify Badge" width="40" height="40">
-    </a>
-    <a href="https://dsc.bio/l4zzur">
-        <img src="discord.png" title="Discord" alt="Discord Badge" width="40" height="40">
-    </a>
-</div>
 
 ---
 ### 🏆 Достижения:
