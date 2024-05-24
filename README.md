@@ -43,27 +43,7 @@ Here are some ideas to get you started:
 ### 🛠️ Инструменты, которые я использую:
 #### Языки:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Formatter: black](https://cdn-icons-png.flaticon.com/128/186/186320.png)](https://github.com/psf/black)
-#### Среда разработки:
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "VSCode IDE")](https://code.visualstudio.com/)
-<!--[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/) (Я пока только учусь им пользоваться-->
-#### Библиотеки:
-[![Aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram Bot API Wrapper")](https://aiogram.dev/)
-[![PyQt](https://img.shields.io/badge/PyQt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white "Qt for Python")](https://wiki.qt.io/Qt_for_Python)
-#### Базы данных:
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white "Mongo NoSQL DataBase")](https://www.mongodb.com)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white "SQLite DataBase")](https://www.sqlite.org)
-#### Системы контроля версий:
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "You're here!")](https://github.com/)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git Version Control")](https://git-scm.com/)
-#### Работа с текстом
-[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white "Obsidian Markdown Editor")](https://obsidian.md/)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white "LaTeX")]()
-#### Операционные системы:
-[![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white "Windows 11")]()
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white "Linux Manjaro")](https://manjaro.org/)
-
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 ---
 ### ✉️ Социальные сети:
 <div>
