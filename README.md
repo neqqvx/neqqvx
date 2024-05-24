@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+html+css+js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Js+Html+Css)](https://git.io/typing-svg)
 
 
 
