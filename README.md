@@ -42,8 +42,10 @@ Here are some ideas to get you started:
 ---
 ### 🛠️ Инструменты, которые я использую:
 #### Языки:
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 ---
 ### ✉️ Социальные сети:
 <div>
