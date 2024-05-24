@@ -51,9 +51,6 @@ Here are some ideas to get you started:
 
 ---
 ### 🏆 Достижения:
-###Боты:
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+Боты:
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/GarANUEnzM)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
-### ⌨️ Статистика:
-| ![Моя активность на GitHub](https://github-readme-activity-graph.vercel.app/graph?username=L4zzur&theme=github-compact) | ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=L4zzur&layout=compact&theme=dark)<br>![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=L4zzur&theme=dark&background=000000)| 
-| :---------- | :---------- |
